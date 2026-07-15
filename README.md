@@ -1,19 +1,19 @@
 <h1 align="center">Vinicius Monteiro</h1>
 
-<h3 align="center">
-  Desenvolvedor Full-stack Júnior | React | Next.js | Node.js | MongoDB
-</h3>
+<h3 align="center">Desenvolvedor Full Stack Júnior</h3>
+
+<p align="center">
+  React | Next.js | TypeScript | Node.js | MongoDB
+</p>
 
 ---
 
 ## Sobre mim
 
-- Desenvolvedor Full-stack Júnior com foco no ecossistema JavaScript e TypeScript
-- Experiência no desenvolvimento de aplicações web modernas e responsivas
-- Conhecimentos em APIs REST, autenticação e integração entre sistemas
-- Experiência com projetos freelancers, do planejamento à publicação
-- Interesse em qualidade de código, acessibilidade e organização de projetos
-- Disponível para oportunidades como Desenvolvedor Júnior
+- Desenvolvimento de aplicações web modernas, responsivas e acessíveis
+- Conhecimentos em APIs REST, autenticação e integração entre front-end e back-end
+- Atuação em projetos freelancers, do planejamento e implementação à publicação
+- Disponível para oportunidades como Desenvolvedor Full Stack Júnior
 
 ---
 
@@ -37,26 +37,33 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </p>
 
-### Desenvolvimento
+### Versionamento
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code">
 </p>
 
----
+### Ferramentas de apoio
 
-## Atualmente estudando
-
-- Aprofundamento em React e Next.js
-- Desenvolvimento e organização de APIs com Node.js
-- Modelagem e integração com MongoDB
-- Autenticação e segurança de aplicações web
-- Testes e boas práticas de desenvolvimento
+Utilizo Codex e Google Antigravity como apoio no planejamento, na documentação e na revisão de código, mantendo a validação técnica e os testes das soluções.
 
 ---
 
-## Outros interesses
+## Desenvolvimento contínuo
 
-Também estudo desenvolvimento de jogos e criação de experiências interativas com GameMaker e Godot.
+- Arquitetura e organização de aplicações full stack
+- Testes, qualidade de código e acessibilidade
+- Autenticação, segurança e desempenho de aplicações web
+
+---
+
+## Interesses complementares
+
+Desenvolvimento de jogos e experiências interativas com GameMaker e Godot.
+
+---
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/viniciussmonteiro)
