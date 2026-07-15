@@ -58,6 +58,7 @@ Utilizo Codex e Google Antigravity como apoio no planejamento, na documentação
 - Arquitetura e organização de aplicações full stack
 - Testes, qualidade de código e acessibilidade
 - Autenticação, segurança e desempenho de aplicações web
+- Fundamentos de análise de dados e ciência de dados
 
 ---
 
