@@ -70,4 +70,6 @@ Desenvolvimento de jogos e experiências interativas com GameMaker e Godot.
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/viniciussmonteiro)
+<a href="https://www.linkedin.com/in/viniciussmonteiro">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
