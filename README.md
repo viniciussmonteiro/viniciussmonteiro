@@ -1,23 +1,25 @@
+<p align="right"><a href="./README.pt-BR.md">Português</a></p>
+
 <h1 align="center">Vinicius Monteiro</h1>
 
-<h3 align="center">Desenvolvedor Full Stack Júnior</h3>
+<h3 align="center">Junior Full Stack Developer</h3>
 
 <p align="center">
-  React | Next.js | TypeScript | Node.js | MongoDB
+  React | Next.js | TypeScript | Node.js | MongoDB | MySQL
 </p>
 
 ---
 
-## Sobre mim
+## About me
 
-- Desenvolvimento de aplicações web modernas, responsivas e acessíveis
-- Conhecimentos em APIs REST, autenticação e integração entre front-end e back-end
-- Atuação em projetos freelancers, do planejamento e implementação à publicação
-- Disponível para oportunidades como Desenvolvedor Full Stack Júnior
+- Junior developer focused on modern, responsive, and accessible web applications
+- Knowledge of REST APIs, authentication, and front-end/back-end integration
+- Experience with freelance projects, from planning and implementation to deployment
+- Open to Junior Full Stack Developer opportunities
 
 ---
 
-## Tecnologias e ferramentas
+## Technologies and tools
 
 ### Front-end
 
@@ -30,7 +32,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
 </p>
 
-### Back-end e banco de dados
+### Back-end and databases
 
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
@@ -38,33 +40,34 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
-### Versionamento
+### Version control
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-### Ferramentas de apoio
+### Development support
 
-Utilizo Codex e Google Antigravity como apoio no planejamento, na documentação e na revisão de código, mantendo a validação técnica e os testes das soluções.
-
----
-
-## Desenvolvimento contínuo
-
-- Arquitetura e organização de aplicações full stack
-- Testes, qualidade de código e acessibilidade
-- Autenticação, segurança e desempenho de aplicações web
+I use Codex and Google Antigravity to support planning, documentation, and code review, while personally validating technical decisions and testing each solution.
 
 ---
 
-## Interesses complementares
+## Continuous development
 
-Desenvolvimento de jogos e experiências interativas com GameMaker e Godot.
+- Full stack application architecture and organization
+- Testing, code quality, and accessibility
+- Authentication, security, and web performance
+- Data analysis and data science fundamentals
 
 ---
 
-## Contato
+## Additional interests
+
+Game development and interactive experiences with GameMaker and Godot.
+
+---
+
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/viniciussmonteiro)
