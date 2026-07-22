@@ -1,4 +1,4 @@
-<p align="right"><a href="./README.md">English</a></p>
+[English](./README.md)
 
 <h1 align="center">Vinicius Monteiro</h1>
 
