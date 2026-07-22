@@ -1,4 +1,4 @@
-<p align="right"><a href="./README.pt-BR.md">Português</a></p>
+[Português](./README.pt-BR.md)
 
 <h1 align="center">Vinicius Monteiro</h1>
 
